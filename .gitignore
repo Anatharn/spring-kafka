@@ -1,0 +1,5 @@
+/kafka-consumer/target/
+/kafka-producer/target/
+/.idea/
+/kafka-common/target/
+*.iml
